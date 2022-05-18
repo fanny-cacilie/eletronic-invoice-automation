@@ -34,7 +34,7 @@
     <ol>
       <li> First, check if you have <b>Python</b> and <b>pip</b> properly installed in your environment;</li><br>
       <li> 
-        Then, install the required packages running the following command:<br><br>
+        Then, access the 'src' directory to install the required packages running the following command:<br><br>
         * If you would like, you can use a virtual environment to install them, like virtualenv or pipenv
                 
         $ pip install -r requirements.txt
