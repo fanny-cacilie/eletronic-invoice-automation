@@ -8,7 +8,7 @@
   
     This application aims to automate electronic invoice processing and issuance. 
     It reads an excel file that contains the clients required commercial information.
-    Then, it takes the data to fill up a form on an electronic invoice processing website.
+    Then, it takes the data to fill up a form on an electronic invoice processing html form.
     At last, it generates and downloads the invoice of each client .
     All this process happens automatically!
  </li>
@@ -17,8 +17,9 @@
   
   <li>
   <h3> Technologies </h3>
-  This project's been developed using the following technologies:<br>
+  This project's been developed using the following technologies:
   <ul>
+    <br>
     <li><a href="https://www.python.org/">Python</a></li>
     <li><a href="https://selenium-python.readthedocs.io//">Selenium</a></li>
     <li><a href="https://chromedriver.chromium.org/home">Chrome Driver</a></li>
